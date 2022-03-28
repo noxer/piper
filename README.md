@@ -2,7 +2,7 @@
 Chain external commands in Go
 
 ## docs
-[godoc](godoc.org/github.com/noxer/piper)
+[godoc](https://pkg.go.dev/github.com/noxer/piper)
 
 ## description
 This package enables you to chain `*exec.Cmd`s and to pipe the output from one process into another without having to manually set up the chain.
